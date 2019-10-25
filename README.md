@@ -1,5 +1,6 @@
 - 此文用于汇总学习源码过程中的思考、整理与心得体会，刚写完redis的第一篇，后面会不断更新
 ## Redis5.X源码学习
+ - 【Redis5.X源码学习】[总的概述(完)](https://www.jianshu.com/p/ad4fe7848030)
  - 【Redis5.X源码学习】[简单动态字符串SDS(完)](https://www.jianshu.com/p/0282f81b26dc)
  - 【Redis5.X源码学习】[跳跃表skiplist(写作中)](写作中)
  - 【Redis5.X源码学习】[压缩列表ziplist(写作中)](写作中)
