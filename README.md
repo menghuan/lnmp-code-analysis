@@ -4,7 +4,7 @@
  - 【Redis5.X源码学习】[简单动态字符串SDS(完)](https://www.jianshu.com/p/0282f81b26dc)
  - 【Redis5.X源码学习】[跳跃表skiplist(写作中)](写作中)
  - 【Redis5.X源码学习】[压缩列表ziplist(写作中)](写作中)
- - 【Redis5.X源码学习】[字典dict(写作中)](写作中)
+ - 【Redis5.X源码学习】[字典dict(完)](https://www.jianshu.com/p/0f69cf04b32c)
  - 【Redis5.X源码学习】[命令生命周期上之客户端，命令结构体(写作中)](写作中)
  - 【Redis5.X源码学习】[命令生命周期中之事件驱动(写作中)](写作中)
  - 【Redis5.X源码学习】[命令生命周期上之服务端，命令处理(写作中)](写作中)
