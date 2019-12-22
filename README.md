@@ -24,7 +24,7 @@
  
 ## PHP7源码学习
  - 【PHP7源码学习】[源码整体结构分析(完)](https://www.jianshu.com/p/7a4480615aa9)
- - 【PHP7源码学习】[基本变量zval(写作中)](写作中)
+ - 【PHP7源码学习】[基本变量zval(完)](https://www.jianshu.com/p/43c4182e04ab)
  - 【PHP7源码学习】[垃圾回收(写作中)](写作中)
  - 【PHP7源码学习】[字符串实现(写作中)](写作中)
  - 【PHP7源码学习】[数组实现(完)](https://www.jianshu.com/p/ed7e0d4e020a)
