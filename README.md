@@ -1,4 +1,4 @@
-- 此文用于汇总PHP7/Redis5/Nginx/Linux/Mysql/Kafka/ElasticSearch/Etcd等学习源码过程中的思考、整理与心得体会，后面会不断更新
+- 此文用于汇总PHP7/Redis5/Nginx/Linux/Mysql/Kafka/ElasticSearch/Etcd/Zookeeper等学习源码过程中的思考、整理与心得体会，后面会不断更新
 
 个人博客链接地址如下:
  
@@ -44,4 +44,9 @@
  - 【Redis5.X源码学习】[哨兵(写作中)](写作中)
  - 【Redis5.X源码学习】[集群(写作中)](写作中)
  - 【Redis5.X源码学习】[Redis分布式锁(写作中)](写作中)
+ 
+ 
+ ## Zookeeper3.4.14源码学习
+ - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://www.jianshu.com/p/34a8dbd5d59d)
+ 
  
