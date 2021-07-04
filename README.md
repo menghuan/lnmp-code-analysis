@@ -5,6 +5,15 @@
  - 【梦幻人生--用技术来点缀自己的人生】[梦幻人生--用技术来点缀自己的人生](https://www.jianshu.com/u/d1efae5b9216)
 
 
+ ## Kafka底层原理及源码学习
+ - 【Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
+ - 【Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
+
+
+ ## Zookeeper3.4.14源码学习
+ - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
+
+
 ## PHP7源码学习
  - 【PHP7源码学习】[源码整体结构分析(完)](https://www.jianshu.com/p/7a4480615aa9)
  - 【PHP7源码学习】[基本变量zval(完)](https://mp.weixin.qq.com/s/qal5sZhMpNGsuVe1NS_tnQ)
@@ -44,14 +53,6 @@
  - 【Redis5.X源码学习】[哨兵(写作中)](写作中)
  - 【Redis5.X源码学习】[集群(写作中)](写作中)
  - 【Redis5.X源码学习】[Redis分布式锁(写作中)](写作中)
- 
- 
- ## Zookeeper3.4.14源码学习
- - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
 
-
- ## Kakfa底层原理及源码学习
- - 【Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
- - 【Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
  
  
