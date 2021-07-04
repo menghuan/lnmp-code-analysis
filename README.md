@@ -7,10 +7,10 @@
 
 ## PHP7源码学习
  - 【PHP7源码学习】[源码整体结构分析(完)](https://www.jianshu.com/p/7a4480615aa9)
- - 【PHP7源码学习】[基本变量zval(完)](https://www.jianshu.com/p/43c4182e04ab)
+ - 【PHP7源码学习】[基本变量zval(完)](https://mp.weixin.qq.com/s/qal5sZhMpNGsuVe1NS_tnQ)
  - 【PHP7源码学习】[垃圾回收(写作中)](写作中)
  - 【PHP7源码学习】[字符串实现(写作中)](写作中)
- - 【PHP7源码学习】[数组实现(完)](https://www.jianshu.com/p/ed7e0d4e020a)
+ - 【PHP7源码学习】[数组实现(完)](https://mp.weixin.qq.com/s/J8eICn4BSvwmAyrbeG1xKA)
  - 【PHP7源码学习】[生命周期(写作中)](写作中)
  - 【PHP7源码学习】[配置解析(写作中)](写作中)
  - 【PHP7源码学习】[内存管理(写作中)](写作中)
@@ -24,7 +24,7 @@
  
  ## Redis5.X源码学习
  - 【Redis5.X源码学习】[总的概述(完)](https://www.jianshu.com/p/ad4fe7848030)
- - 【Redis5.X源码学习】[简单动态字符串SDS(完)](https://www.jianshu.com/p/0282f81b26dc)
+ - 【Redis5.X源码学习】[简单动态字符串SDS(完)](https://mp.weixin.qq.com/s/4qIFFjj2thqOWJJgqoiXuA)
  - 【Redis5.X源码学习】[跳跃表skiplist(写作中)](写作中)
  - 【Redis5.X源码学习】[压缩列表ziplist(写作中)](写作中)
  - 【Redis5.X源码学习】[字典dict(完)](https://www.jianshu.com/p/0f69cf04b32c)
@@ -47,6 +47,11 @@
  
  
  ## Zookeeper3.4.14源码学习
- - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://www.jianshu.com/p/34a8dbd5d59d)
+ - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
+
+
+ ## Kakfa底层原理及源码学习
+ - 【Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
+ - 【Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
  
  
