@@ -9,7 +9,7 @@
  ## Kafka底层原理及源码学习
  - 【Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
  - 【Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
-
+ - 【Kafka实践学习】[八大步骤带你深度剖析Kafka生产级容量评估方案(完)](https://mp.weixin.qq.com/s/DSlJqWBGx_Vc1CHACgsSfQ)
 
  ## Zookeeper3.4.14源码学习
  - 【Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
