@@ -19,6 +19,7 @@
  - 【🔥Kafka实践学习】[聊聊Kafka Consumer那点事(完)](https://mp.weixin.qq.com/s/jSAgh_cPgEo-jRuEwErFQg)
  - 【🔥Kafka实践学习】[【面霸必备系列】Kafka底层原理阶段性总结(完)](https://mp.weixin.qq.com/s/DhKb_6O4H6LT3TvChMUlYA)
  - 【🔥Kafka实践学习】[搞透kafka存储架构，看这篇就够了(完)](https://mp.weixin.qq.com/s/p45FtD673s-cdkeHqrEc-g)
+ - 【🔥Kafka实践学习】[深度剖析：Kafka 请求是如何处理? 看完这篇文章彻底懂了！(完)](https://mp.weixin.qq.com/s/dhxjGmzpqSr8ACeKqpPD4g)
 
  ## Zookeeper3.4.14源码学习
  - 【🔥Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
