@@ -11,7 +11,7 @@
  <p align="center"><img src="https://github.com/menghuan/lnmp-code-analysis/blob/master/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" width="500px"></p>
 
  ## Kafka底层原理及源码学习
- - 【Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
+ - 【🔥Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
  - 【🔥Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
  - 【🔥Kafka实践学习】[八大步骤带你深度剖析Kafka生产级容量评估方案(完)](https://mp.weixin.qq.com/s/DSlJqWBGx_Vc1CHACgsSfQ)
  - 【🔥Kafka实践学习】[聊聊kafka broker那点事(完)](https://mp.weixin.qq.com/s/ZVxFSMoXHfC28-oQgXYrig)
