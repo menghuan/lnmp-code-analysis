@@ -22,6 +22,9 @@
  - 【🔥Kafka实践学习】[深度剖析：Kafka 请求是如何处理? 看完这篇文章彻底懂了！(完)](https://mp.weixin.qq.com/s/dhxjGmzpqSr8ACeKqpPD4g)
  - 【🔥Kafka实践学习】[刨根问底: Kafka 到底会不会丢数据？(完)](https://mp.weixin.qq.com/s/g7L3kN1FDitZ60EdmU2zxA)
  - 【🔥Kafka实践学习】[源码系列第1弹 | 带你快速攻略Kafka源码之旅入门篇(完)](https://mp.weixin.qq.com/s/DuGJou6CAsFEvDHKKQz2dw)
+ - 【🔥Kafka实践学习】[【建议收藏】Kafka 面试连环炮, 看看你能撑到哪一步?（上）](https://mp.weixin.qq.com/s/8OAQzZ5jZYV2Fvtg0pfZoQ)
+ - 【🔥Kafka实践学习】[【建议收藏】Kafka 面试连环炮, 看看你能撑到哪一步?（中）](https://mp.weixin.qq.com/s/CG93xB6ubjJRlYJlxhtcSg)
+ - 【🔥Kafka实践学习】[【建议收藏】Kafka 面试连环炮, 看看你能撑到哪一步?（下）](https://mp.weixin.qq.com/s/HksQtlhYG2hRHMKD85ktnw)
 
  ## Zookeeper3.4.14源码学习
  - 【🔥Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
