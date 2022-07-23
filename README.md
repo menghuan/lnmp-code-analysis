@@ -28,6 +28,7 @@
  - 【🔥Kafka源码剖析】[图解 Kafka 生产者初始化核心流程](https://mp.weixin.qq.com/s/n0mBxx-VjaxSBDSWXHlbcg)
  - 【🔥Kafka源码剖析】[图解 Kafka 生产者元数据拉取管理全流程](https://mp.weixin.qq.com/s/2l3QvU5K8wQwc1SlUmgBvg)
  - 【🔥Kafka源码剖析】[图解 Kafka 网络层实现机制之上篇](https://mp.weixin.qq.com/s/U_0pqYNcZXbh-PfcttW3ag)
+ - 【🔥Kafka源码剖析】[图解 Kafka 网络层实现机制之Selector 多路复用器](https://mp.weixin.qq.com/s/m1aNkPcotz4mHrufDocyrw)
 
  ## Zookeeper3.4.14源码学习
  - 【🔥Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
