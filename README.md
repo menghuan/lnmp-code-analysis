@@ -9,9 +9,13 @@
  ## 个人公众号二维码如下:
  **微信扫一扫关注！**   
  <p align="center"><img src="https://github.com/menghuan/lnmp-code-analysis/blob/master/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" width="500px"></p>
+ 
+<p align="center"><img src="https://github.com/menghuan/lnmp-code-analysis/blob/master/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" width="500px"></p>
 
  ## Kafka底层原理及源码学习
- - 【🔥Kafka实践学习】[Kafka基础入门篇(完)](https://mp.weixin.qq.com/s/do9bXH9qJzt4kNyxlEOyJg)
+ - 【🔥Kafka实践学习】[Kafka基础入门篇(完)](https://articles.zsxq.com/id_69gssikbm5dj.html)
+ - 【🔥Kafka实践学习】[【入门实战系列第二篇】Kafka 安装入门实战(完)](https://articles.zsxq.com/id_f3x6sktguwdn.html)
+ - 【🔥Kafka实践学习】[【入门实战系列第三篇】Kafka 集群实战(完)](https://articles.zsxq.com/id_kbeatrpxulfj.html)
  - 【🔥Kafka实践学习】[kafka三高架构设计剖析(完)](https://mp.weixin.qq.com/s/qJoSAlTIefEOVtV-Bcnb-g)
  - 【🔥Kafka实践学习】[八大步骤带你深度剖析Kafka生产级容量评估方案(完)](https://mp.weixin.qq.com/s/DSlJqWBGx_Vc1CHACgsSfQ)
  - 【🔥Kafka实践学习】[聊聊kafka broker那点事(完)](https://mp.weixin.qq.com/s/ZVxFSMoXHfC28-oQgXYrig)
@@ -29,6 +33,8 @@
  - 【🔥Kafka源码剖析】[图解 Kafka 生产者元数据拉取管理全流程](https://mp.weixin.qq.com/s/2l3QvU5K8wQwc1SlUmgBvg)
  - 【🔥Kafka源码剖析】[图解 Kafka 网络层实现机制之上篇](https://mp.weixin.qq.com/s/U_0pqYNcZXbh-PfcttW3ag)
  - 【🔥Kafka源码剖析】[图解 Kafka 网络层实现机制之Selector 多路复用器](https://mp.weixin.qq.com/s/m1aNkPcotz4mHrufDocyrw)
+ 
+ 
 
  ## Zookeeper3.4.14源码学习
  - 【🔥Zookeeper3.4.14】[zookeeper源码分析系列一开篇基础知识剖析(完)](https://mp.weixin.qq.com/s/0Qc-fOh7aSSX8B6TiyIY8w)
